@@ -7,9 +7,74 @@
 
 .header_wrapper {
 
-    font-family: verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
-    color: red;
+    color: white;
     text-align: center;
 }
+
+.header_announcement, .footer-announcement {
+
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 35px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+body {
+
+    background-color: black;
+    text-align: center;
+}
+
+.mock_video {
+
+    margin-top: 20px;
+}
+
+.travel-container {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300px;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.travel-container p {
+
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 42px;
+}
+
+.travel-container img {
+
+    margin-top: 15px;
+}
+
+.footer {
+
+    margin-top: 5px;
+}
+
+.mobile-announcement  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300px;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+
+    margin: 38px 0px 15px 0px;
+   
+   
+
+    
+}
+
