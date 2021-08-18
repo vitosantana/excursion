@@ -1,0 +1,15 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+}
+
+.header_wrapper {
+
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: red;
+    text-align: center;
+}
